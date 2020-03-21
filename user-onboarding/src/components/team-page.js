@@ -19,5 +19,6 @@ const TeamPage = (props) => {
     )
 }
 
+// still need to add way to recognize the boolean from TOS checkbox
 
 export default TeamPage
